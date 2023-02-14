@@ -13,6 +13,8 @@ If you want to have the important points in a few lines, Grottocenter is:
 
 Do you want to participate? computer development, data entry, translation, promotion of the project... What you want to do is essential since it will give us the opportunity to work together
 
+[Discover the documentation](https://github.com/GrottoCenter/grottocenter-api/wiki)
+
 [You can join us on Slack](grottocenter.slack.com)
 
 [You can also send us a message](https://en.wikicaves.org/contact)
