@@ -18,3 +18,5 @@ Do you want to participate? computer development, data entry, translation, promo
 [You can join us on Slack](grottocenter.slack.com)
 
 [You can also send us a message](https://en.wikicaves.org/contact)
+
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v2/monitor/29psh.svg)](https://wikicaves.betteruptime.com)
